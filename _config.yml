@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Crimson's Craft
+title: Hexagonize blog
 subtitle:
-description: PS && Lego MOC
-author: Crimson
+description: PS
+author: 조나단
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -84,7 +84,7 @@ plugins:
 favicon: /assets
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT, Program_Solving, Lego"
+keywords: "PS"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
